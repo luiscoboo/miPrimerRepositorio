@@ -1,0 +1,53 @@
+﻿[Options]
+Version=1
+StateName=ALL
+TabType=0
+Frozen=0
+SortBy=0
+ShowExt=0
+ShowAllFiles=0
+ShowOneOnly=0
+Zoom=2
+ShowFolderIcons=1
+SortByGroup=1
+OpenedOnly=0
+ShowParentFolders=0
+TabColor=$FFD500D5
+CustomTabColor=0
+TabIcon=-729
+TabName=ALL
+ViewIndex=0
+Hidden=0
+ScrollerPos=0
+ShowPreview=1
+ShowThumbnails=1
+LastTabIndex=0
+FilterTags=
+FilterText=
+FilterExt=
+TabWidth=0
+TabHeight=0
+RememberTabSize=0
+TabAspectCoef=0
+Views=0|1|3
+
+[Data]
+DataType=0
+BaseNodeType=0
+
+[DataFolders]
+Count=1
+FolderName_0=
+NodePathID_0=0
+NodePath_0=
+
+[Folders]
+Count=7
+0=c:\users\mañana\desktop\core\prod fl\stash kit - @prodbyljs\stash kit - @prodbyljs\808s
+1=c:\users\mañana\desktop\prod fl\desert sample pack prodbyljs x theboycasa
+2=c:\users\mañana\desktop\core\prod fl
+3=c:\users\mañana\desktop\core\prod fl\desert sample pack prodbyljs x theboycasa
+4=c:\users\mañana\desktop\core\prod fl\stash kit - @prodbyljs
+5=c:\users\mañana\desktop\core\prod fl\stash kit - @prodbyljs\stash kit - @prodbyljs
+6=c:\users\mañana\desktop\core\prod fl\stash kit - @prodbyljs\stash kit - @prodbyljs\808s
+
